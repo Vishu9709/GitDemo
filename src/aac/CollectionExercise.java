@@ -28,6 +28,7 @@ public class CollectionExercise {
 				System.out.println(a[i]+"->"+k);
 				if(k==1) {
 					System.out.println(a[i]+ "is a unique number");
+					System.out.println("These are the changes for git");
 				}
 			}
 			

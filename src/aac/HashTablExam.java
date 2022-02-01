@@ -21,7 +21,7 @@ public class HashTablExam {
 				hm.put(3, "evening");   //key value can be string also
 				
 				//System.out.println(hm.get(2));
-			
+				System.out.println("3rd changes for git");
 				Set	sn=hm.entrySet(); //it will make it set
 				Iterator it=  sn.iterator();
 				while(it.hasNext()) {
